@@ -74,7 +74,6 @@ export const styles = StyleSheet.create({
   },
   statusNumber: {
     color: "#ffffff",
-    paddingLeft: 10,
     paddingVertical: 2,
     backgroundColor: "#333333",
     borderRadius: 50,
@@ -82,6 +81,7 @@ export const styles = StyleSheet.create({
     width: 25,
     fontSize: 11,
     fontWeight: "bold",
+    textAlign: "center",
   },
   labelCriadas: {
     color: "#4EA8DE",
